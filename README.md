@@ -14,9 +14,8 @@ Os princípios SOLID são um conjunto de diretrizes de design de software que vi
 
 ## Estrutura do Repositório
 
-- `solid/*.ts`: Contém exemplos de código TypeScript para cada princípio SOLID.
-- `solid/*.spec.ts`: Contém testes usando a biblioteca vitest para garantir que os princípios SOLID estejam sendo respeitados.
-- `README.md`: Este arquivo, contendo informações sobre o repositório.
+- `src/solid/*.ts`: Contém exemplos de código TypeScript para cada princípio SOLID.
+- `src/solid/*.spec.ts`: Contém testes usando a biblioteca vitest para garantir que os princípios SOLID estejam sendo respeitados.
 
 ## Executando os Testes
 
