@@ -1,0 +1,17 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "Repo para praticar conceitos OOP, SOLID e Clean Code com typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "rcmonteiro",
+  "license": "MIT",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.2.2",
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
+}
